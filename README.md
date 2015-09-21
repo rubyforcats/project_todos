@@ -1,2 +1,8 @@
-# project_todos
-A list of todos and ideas for Ruby for Cats
+# Ruby for Cats
+
+## Todo
+
+- [ ] Add a code of conduct
+- [ ] Create website
+- [ ] Setup DNS simple
+- [ ] Hug *every* cat
